@@ -1,0 +1,8 @@
+D:\Training\C#\Day 3\ConAppDay3\ConAppDay3\bin\Debug\ConAppDay3.exe.config
+D:\Training\C#\Day 3\ConAppDay3\ConAppDay3\bin\Debug\ConAppDay3.exe
+D:\Training\C#\Day 3\ConAppDay3\ConAppDay3\bin\Debug\ConAppDay3.pdb
+D:\Training\C#\Day 3\ConAppDay3\ConAppDay3\obj\Debug\ConAppDay3.csproj.AssemblyReference.cache
+D:\Training\C#\Day 3\ConAppDay3\ConAppDay3\obj\Debug\ConAppDay3.csproj.SuggestedBindingRedirects.cache
+D:\Training\C#\Day 3\ConAppDay3\ConAppDay3\obj\Debug\ConAppDay3.csproj.CoreCompileInputs.cache
+D:\Training\C#\Day 3\ConAppDay3\ConAppDay3\obj\Debug\ConAppDay3.exe
+D:\Training\C#\Day 3\ConAppDay3\ConAppDay3\obj\Debug\ConAppDay3.pdb
