@@ -24,15 +24,17 @@ namespace ConAppDay3
             //string myString = "Our String";
             //DateTime myDateTime = new DateTime(day:12, month:12, year: 2022);
             //bool myBool = false;
+
+            /*
             try 
             
             {
                 byte ourByte;
-            Console.WriteLine("Enter a number");
+                Console.WriteLine("Enter a number");
             
-            ourByte = Convert.ToByte(Console.ReadLine());
-            Console.WriteLine("Number is " + ourByte);
-            Console.ReadKey(); 
+                ourByte = Convert.ToByte(Console.ReadLine());
+                Console.WriteLine("Number is " + ourByte);
+                Console.ReadKey(); 
             }
 
             //order is important for the catch
@@ -56,9 +58,32 @@ namespace ConAppDay3
                 Console.ReadKey();
                     
             }
+            */
+            
+            Console.WriteLine("First Month of the year " + MonthsOfYear.January);
+            Console.WriteLine("Second Month of the year " + MonthsOfYear.February);
 
+            Console.WriteLine("First Month of the year " + (int)MonthsOfYear.January);
 
+            Console.ReadKey();
 
+           
+        }
+
+        enum MonthsOfYear
+        {
+            January = 1,
+            February = 2,
+            March = 3,
+            April = 4,
+            May =5,
+            June = 6,
+            July = 7,
+            August = 8,
+            September = 9,
+            October = 10,
+            November = 11,
+            December = 12
         }
     }
 }
